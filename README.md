@@ -40,7 +40,7 @@ The analysis and visualizations were conducted using **Gretl**.
 
 ## Research Paper
 
-The complete analysis and discussion are available in [south_korea_financial_crisis_empirical_project.pdf](Paper/south_korea_financial_crisis_empirical_project.pdf)
+The complete analysis and discussion are available in [paper/](Paper/south_korea_financial_crisis_empirical_project.pdf)
 
 ## Author
 [Christopher Ajayi](https://github.com/christopher-ajayi)
